@@ -2,8 +2,10 @@ import os
 from colors import bcolors         #you import the color values from this class
 
 
-
 os.system('cls')
+
+print(bcolors.BLUE + "blå" + bcolors.CYAN + "cyan")
+
 
 print("Ingen färg")
 
